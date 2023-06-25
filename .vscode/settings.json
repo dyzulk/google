@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Hack The Box",
+    "editor.fontFamily": "fira code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "terminal.integrated.defaultProfile.windows": "Git Bash"
+}
